@@ -1,8 +1,6 @@
 # 🚀 Business Automation Designer
 **Powered by AutoGen + OpenAI**
 
-🌐 **[View Live Application](https://autogen-business-automation-designe.vercel.app)**
-
 > **Transform natural language into production-ready automation workflows. Describe any business process in plain English, and watch AutoGen agents design a complete workflow with tools, triggers, risk analysis, and optimization—in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -233,8 +231,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-[Live Demo](https://autogen-business-automation-designe.vercel.app) • [Report Bug](https://github.com/your-username/autogen-business-automation-designer/issues) • [Request Feature](https://github.com/your-username/autogen-business-automation-designer/issues)
 
 Made with ❤️ and ☕ by [Your Name](https://github.com/your-username)
 
